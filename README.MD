@@ -1,6 +1,6 @@
 # Awaiting WebSockets in SwiftUI
 
-![Hero Image](/images/hero.jpeg)
+![Hero Image](/images/hero.jpg)
 
 An example SwiftUI project that demonstrates the concepts discussed in the article [Awaiting WebSockets in SwiftUI](https://obscuredpixels.com/awaiting-websockets-in-swiftui)
 
